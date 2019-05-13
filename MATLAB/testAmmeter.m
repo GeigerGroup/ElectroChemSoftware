@@ -1,0 +1,3 @@
+tic
+a.getData()
+toc

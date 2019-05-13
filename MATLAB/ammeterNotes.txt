@@ -1,0 +1,6 @@
+1. Open up MATLAB.
+2. type: tmtool
+3. Click on GPIB on the left side. Click Scan. The Keithley Board should come up.
+4. Click on the Keithley Board and Scan for instruments. It should find the ammeter at address 14.
+5. If these don't work, there is a problem with the connection.
+6. 
